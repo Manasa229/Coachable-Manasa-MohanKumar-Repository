@@ -6,11 +6,11 @@ class Solution:
 
         """
         - Take the substrings of the string
-        -check if the substring is palidrome
+        -check if the substring is palindrome
         -if true, check if the length is greater than the res length, if true updatre res
         - return res
 
-        Time Complexity:O(n^2)
+        Time Complexity:O(n)
         Space Complexity:O(n)
         """
 
